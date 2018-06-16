@@ -5,14 +5,17 @@
 
 .col-a{
   background-color: aqua;
+  height: 150px;
 }
 
 .col-b {
   background-color: bisque;
+  height: 150px;
 }
 
 .col-c {
   background-color: chocolate;
+  height: 150px;
 }
 
 .row {
