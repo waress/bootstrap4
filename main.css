@@ -1,0 +1,23 @@
+
+.col {
+  height: 150px;
+}
+
+.col-a{
+  background-color: aqua;
+}
+
+.col-b {
+  background-color: bisque;
+}
+
+.col-c {
+  background-color: chocolate;
+}
+
+.row {
+  background-color: skyblue;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+}
